@@ -1,4 +1,4 @@
-#subscription service
+# subscription service
 easily create your own subscriptions!
 
 
